@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+---
+
 <!--
 **Tariq-B/Tariq-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm CS Student @ Concordia University.
+I'm Tariq, a CS Student @ Concordia University.
 
 I try to do interesting stuff here and there.
 
