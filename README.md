@@ -21,4 +21,6 @@ I'm Tariq, a CS Student @ Concordia University.
 
 I try to do interesting stuff here and there.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Tariq-B&hide=contribs,prs)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Tariq-B)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tariq-B&layout=compact)
