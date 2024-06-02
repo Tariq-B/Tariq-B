@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Tariq, a CS Student @ Concordia University.
+I'm Tariq, a new Grad from Concordia University.
 
 I try to do interesting stuff here and there.
 
+There's a backlog of projects I haven't put on here yet.
