@@ -21,4 +21,4 @@ I'm Tariq, a new Grad from Concordia University.
 
 I try to do interesting stuff here and there.
 
-There's a backlog of projects I haven't put on here yet.
+There's a backlog of projects I haven't put on here yet. I'm currently in the process of doing so.
